@@ -1,2 +1,5 @@
 # hello-world
-Hello World My First Git
+Hi Zombies,
+
+Rex here, I'm half human half pizza. I love Programming more than my wife.
+
